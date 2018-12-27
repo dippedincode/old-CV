@@ -1,4 +1,4 @@
-## Diptis Halder
+# Diptis Halder
 
 Currently I am a student at Makers Academy, on my way to becoming a world-class software developer and due to complete my course at the end of March 2019. I have over 15 years of product experience in multinational and multicultural companies. I seek a role in which I can continue to create and deliver innovative and robust products in an Agile framework, manage product backlogs and collaborate with stakeholders in both commercial and technology teams.
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (November 2018 - March 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +34,29 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Kent (1995 to 1996)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MSc in Distributed Systems 
+- I completed a project in network management systems at BT Research Labs
 
-#### Any other qualifications
+#### Emmanuel College, Cambridge University (1991 to 1994)
+
+- BA Hons in Engineering, Class 2.2
+- My final year subjects included computing and management
+
+
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Kindred Group Plc** (Nov 2010 to Jun 2017)    
+*Product Delivery Manager*
+**Vodafone Global Content Services** (Dec 2008 to July 2010)   
+*Product Manager*
+**Boltblue** (Mar 2007 to Jun 2008)
+*Product Manager*
+**Proximus** (Feb 2004 to Feb 2007)
+*Product Manager*
+**Vodafone Group Plc** (Oct 2000 to Mar 2003)
+*Technical Project Manager*
+**Reuters** (Oct 1996 to Sep 2000)
+*Technical Project Manager*
