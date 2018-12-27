@@ -44,24 +44,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - BA Hons in Engineering, Class 2.2
 - My final year subjects included computing and management
 
-
-
 ## Experience
 
-**Kindred Group Plc** (Nov 2010 to Jun 2017)    
+**Kindred Group Plc** (Nov 2010 to Jun 2017)  
 *Product Delivery Manager*
 
-**Vodafone Global Content Services** (Dec 2008 to July 2010)   
+**Vodafone Global Content Services** (Dec 2008 to July 2010)  
 *Product Manager*
 
-**Boltblue** (Mar 2007 to Jun 2008)
+**Boltblue** (Mar 2007 to Jun 2008)  
 *Product Manager*
 
-**Proximus** (Feb 2004 to Feb 2007)
+**Proximus** (Feb 2004 to Feb 2007)  
 *Product Manager*
 
-**Vodafone Group Plc** (Oct 2000 to Mar 2003)
+**Vodafone Group Plc** (Oct 2000 to Mar 2003)  
 *Technical Project Manager*
 
-**Reuters** (Oct 1996 to Sep 2000)
+**Reuters** (Oct 1996 to Sep 2000)  
 *Technical Project Manager*
