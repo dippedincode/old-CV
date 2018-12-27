@@ -1,6 +1,6 @@
 ## Diptis Halder
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Currently I am a student at Makers Academy, on my way to becoming a world-class software developer and due to complete my course at the end of March 2019. I have over 15 years of product experience in multinational and multicultural companies. I seek a role in which I can continue to create and deliver innovative and robust products in an Agile framework, manage product backlogs and collaborate with stakeholders in both commercial and technology teams.
 
 ## Skills
 
