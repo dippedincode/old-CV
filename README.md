@@ -1,9 +1,9 @@
 # Diptis Halder
 |   my developing website	| my LinkedIn page  	| my Medium posts  	|
 |---	|---	|---	|
-| www.dips.dev | https://www.linkedin.com/in/diptis-halder/ | https://medium.com/@diptis.halder |
+| https://www.dips.dev/ | https://www.linkedin.com/in/diptis-halder/ | https://medium.com/@diptis.halder |
 
-I am a graduate of Makers Academy and well on my way to becoming a world-class software developer. I have over 15 years of product experience in multinational and multicultural companies. I seek a role in which I can continue to create and deliver innovative and robust products in an Agile framework, manage product backlogs and collaborate with stakeholders in both commercial and technology teams.
+I am a well experienced full-stack software developer seeking my next role. I am a graduate of Makers Academy, a world renowned coding bootcamp where I have acquired skills and techniques to help me on my way to becoming a world-class software developer. I have over 15 years of product experience in multinational and multicultural companies. I seek a role in which I can continue to create and deliver innovative and robust products in an Agile framework, manage product backlogs and collaborate with stakeholders in both commercial and technology teams.
 
 ## Skills
 
