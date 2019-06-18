@@ -1,7 +1,7 @@
 # Diptis Halder
-my developing website : www.dips.dev
-my LinkedIn page : https://www.linkedin.com/in/diptis-halder/
-my Medium posts : https://medium.com/me/stories/public
+|   my developing website	| my LinkedIn page  	| my Medium posts  	|
+|---	|---	|---	|
+| www.dips.dev | https://www.linkedin.com/in/diptis-halder/ | https://medium.com/@diptis.halder |
 
 I am a graduate of Makers Academy and well on my way to becoming a world-class software developer. I have over 15 years of product experience in multinational and multicultural companies. I seek a role in which I can continue to create and deliver innovative and robust products in an Agile framework, manage product backlogs and collaborate with stakeholders in both commercial and technology teams.
 
