@@ -36,7 +36,7 @@ I completed an undergraduate degree course in Engineering at Cambridge Universit
 I have extensive commercial experience in web products. My last job was at an online gambling operator called Kindred. During my 6.5 years there the company grew in size from 300 to 1200 employees and more than doubled the number of customers and brands that it served. Its main brand is Unibet and I worked mainly on front-end deliverables for new products, enhancing customer journeys and producing compelling landing pages for marketing teams. Prior to this I worked on major mobile content retailing platforms across many Vodafone operating companies and before that on network development at Reuters.
 
 ## Projects
-| Title	| Description	| Technologies | Duration |
+| Title	| Description	| Technologies | Test suites |
 |---	|---	|---	|---	|
 | [What Zen](https://github.com/what-zen/what-zen-app) | Our team built a task manager integrated with chat. It allows its community of users to manage tasks using a simple format following the Eisenhower Matrix, and chat about the tasks or about issues in general. It is deployed at https://what-zen-app.firebaseapp.com/ 	| JavaScript, React, Node, Cypress, Firebase hosting.  	| 2 weeks  	|
 | [Acebook](https://github.com/dippedincode/acebook-desk-warriors) |   	|   	| 2 weeks |
