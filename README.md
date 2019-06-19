@@ -1,9 +1,8 @@
 <h1 align="center">Diptis Halder</h1>
 
-|   my developing website	| my LinkedIn page  	| my Medium posts  	|
-|---	|---	|---	|
-| https://www.dips.dev/ | https://www.linkedin.com/in/diptis-halder/ | https://medium.com/@diptis.halder |
-
+| my developing website	| my LinkedIn page | my Codewars profile | my Medium posts |
+|---	|---	|---	|--- |
+| https://www.dips.dev/ | https://www.linkedin.com/in/diptis-halder/ | https://www.codewars.com/users/dippedincode | | https://medium.com/@diptis.halder |
 
 [Background ](#background) | 
 [Projects ](#projects) | 
@@ -28,7 +27,7 @@ I have extensive commercial experience in web products. My last job was at an on
 | [Acebook](https://github.com/dippedincode/acebook-desk-warriors) |   	|   	| 2 weeks |
 | [MakersBnB](https://github.com/dippedincode/Makers_BnB)	|   	|   	| 1 week	|
 | [Thermostat](https://github.com/dippedincode/Thermostat) |   	|   	| 1 week |
-| [Connect 4](https://github.com/dippedincode/Connect4)	|   	|   	| ongoing	|
+| [Connect 4](https://github.com/dippedincode/Connect4)	| This is my solution to a [codewars kata](https://www.codewars.com/kata/connect-4/) which models the game Connect 4. It is an ongoing project. I have tested many scenarios for winning lines and it has been an excellent exercise in TDD.	| JavaScript, Node, Jasmine	| ongoing	|
 
 ## Skills
 
@@ -53,8 +52,8 @@ I have extensive commercial experience in web products. My last job was at an on
 
 ### Makers Academy (November 2018 - March 2019)
 
-- OOP, TDD, MVC,
-- Agile, pair programming
+- Learning how to learn to code following best practices and processes
+- Agile, pair programming, teamwork
 
 ### University of Kent (1995 to 1996)
 
