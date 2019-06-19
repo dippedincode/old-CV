@@ -22,7 +22,7 @@ I have extensive commercial experience in web products. My last job was at an on
 ## Projects
 | Title	| Description	| Technologies | Duration |
 |---	|---	|---	|---	|
-| What Zen |   	|   	| 2 weeks  	|
+| [What Zen](https://github.com/what-zen/what-zen-app) | This is a task manager integrated with chat. It allows its community of users to manage tasks using a simple format following the Eisenhower Matrix, and chat about the tasks or on issues in general. It is deployed at https://what-zen-app.firebaseapp.com/ 	| JavaScript, React, Node, Cypress, Firebase hosting.  	| 2 weeks  	|
 | Acebook	|   	|   	| 2 week |
 | MakersBnB	|   	|   	| 1 week	|
 | Thermostat |   	|   	| 1 week |
