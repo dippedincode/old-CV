@@ -2,7 +2,7 @@
 
 | my developing website	| my LinkedIn page | my Codewars profile | my Medium posts |
 |---	|---	|---	|--- |
-| https://www.dips.dev/ | https://www.linkedin.com/in/diptis-halder/ | https://www.codewars.com/users/dippedincode | | https://medium.com/@diptis.halder |
+| https://www.dips.dev/ | https://www.linkedin.com/in/diptis-halder/ | https://www.codewars.com/users/dippedincode | https://medium.com/@diptis.halder |
 
 [Background ](#background) | 
 [Projects ](#projects) | 
