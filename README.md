@@ -30,58 +30,35 @@ I have extensive commercial experience in web products. My last job was at an on
 
 ## Skills
 
-#### 
+### E-commerce
+...
 
-#### E-commerce
-...while at Kindred Group, online gambling operator
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Agile methodologies
+### Agile methodologies
 ... 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-#### UX and Design
+### UX and Design
 ...
 
-#### Stakeholder management
-...
-
-#### Issue tracking and problem resolution
-...
-
-#### Feature documentation, operational support
+### Stakeholder management
 ...
 
 ## Education
 
-#### Makers Academy (November 2018 - March 2019)
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+### Makers Academy (November 2018 - March 2019)
 
 - OOP, TDD, MVC,
 - Agile, pair programming
 - Ruby, Rails, JavaScript, Node, React
 - RSpec, Jasmine, Jest
 
-#### University of Kent (1995 to 1996)
+### University of Kent (1995 to 1996)
 
 - MSc in Distributed Systems 
 - I completed a project in network management systems at BT Research Labs
 
-#### Emmanuel College, Cambridge University (1991 to 1994)
+### Emmanuel College, Cambridge University (1991 to 1994)
 
-- BA Hons in Engineering, Class 2.2
+- BA Hons in Engineering
 - My final year subjects included computing and management
 
 ## Experience
