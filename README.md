@@ -1,12 +1,23 @@
 <h1 align="center">Diptis Halder</h1>
 
-| my developing website	| my LinkedIn page |
-|---	|---	|
-| https://www.dips.dev/ | https://www.linkedin.com/in/diptis-halder/ |
-
-| my Codewars profile | my Medium posts |
-|---	|---	|
-| https://www.codewars.com/users/dippedincode | https://medium.com/@diptis.halder |
+<table>
+  <tr>
+    <td><b>my developing website</b></td>
+    <td>https://www.dips.dev/</td>
+  </tr>
+  <tr>
+    <td><b>my LinkedIn profile</b></td>
+    <td>https://www.linkedin.com/in/diptis-halder/</td>
+  </tr>
+  <tr>
+    <td><b>my Codewars profile</b></td>
+    <td>https://www.codewars.com/users/dippedincode</td>
+  </tr>
+  <tr>
+    <td><b>my Medium posts</b></td>
+    <td>https://medium.com/@diptis.halder</td>
+  </tr>
+</table>
 
 [Background ](#background) | 
 [Projects ](#projects) | 
