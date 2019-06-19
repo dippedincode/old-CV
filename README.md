@@ -17,12 +17,14 @@ I am a full-stack software developer with over 15 years of product experience in
 I seek a role in which I can continue to create and deliver innovative and robust products in an Agile framework, manage product backlogs and collaborate with stakeholders in both commercial and technology teams.
 
 ## Background
-I have extensive commercial experience in web products. My last job was at an online gambling operator called Kindred. During my 6.5 years there the company grew in size from 300 to 1200 employees and more than doubled the number of customers and brands that it served. Its main brand is Unibet and I worked mainly on front-end deliverables for new products and landing pages for marketing teams.
+I completed a course in Engineering at Cambridge University and followed that with an MSc in Distributed Systems at the University of Kent. Since then I have worked in several technology roles for global companies and consumer brands. I am very glad to continue my journey in technology with my move into software development. 
+
+I have extensive commercial experience in web products. My last job was at an online gambling operator called Kindred. During my 6.5 years there the company grew in size from 300 to 1200 employees and more than doubled the number of customers and brands that it served. Its main brand is Unibet and I worked mainly on front-end deliverables for new products, enhancing customer journeys and producing compelling landing pages for marketing teams. Prior to this, I worked on major content retailing platforms for mobile customers across many Vodafone operating companies and on network development at Reuters.
 
 ## Projects
 | Title	| Description	| Technologies | Duration |
 |---	|---	|---	|---	|
-| [What Zen](https://github.com/what-zen/what-zen-app) | This is a task manager integrated with chat. It allows its community of users to manage tasks using a simple format following the Eisenhower Matrix, and chat about the tasks or on issues in general. It is deployed at https://what-zen-app.firebaseapp.com/ 	| JavaScript, React, Node, Cypress, Firebase hosting.  	| 2 weeks  	|
+| [What Zen](https://github.com/what-zen/what-zen-app) | Our team built a task manager integrated with chat. It allows its community of users to manage tasks using a simple format following the Eisenhower Matrix, and chat about the tasks or about issues in general. It is deployed at https://what-zen-app.firebaseapp.com/ 	| JavaScript, React, Node, Cypress, Firebase hosting.  	| 2 weeks  	|
 | Acebook	|   	|   	| 2 week |
 | MakersBnB	|   	|   	| 1 week	|
 | Thermostat |   	|   	| 1 week |
