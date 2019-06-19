@@ -12,12 +12,12 @@
 [Education ](#education) | 
 [Interests ](#interests) 
 
-I am a full-stack software developer with over 15 years of product experience in various roles within multinational companies. Following a career change into programming I now have a passion to continue learning and growing as I craft new products and immerse myself in new technologies. I am a graduate of Makers Academy where I have acquired the coding skills and techniques to help me on my way to becoming a world-class web programmer.
+I am a full-stack software developer with over 15 years of product experience in various roles within multinational companies. Following a career change into programming I now have a passion craft new products in code, immerse myself in new technologies and continue to learn and grow as I do so. I am a graduate of Makers Academy where I have acquired the coding skills and techniques to help me on my way to becoming a world-class web programmer.
 
 I seek a role in which I can continue to create and deliver innovative and robust products in an Agile framework, manage product backlogs and collaborate with stakeholders in both commercial and technology teams.
 
 ## Background
-I have extensive commercial experience in web products. My last job was at an online gambling operator called Kindred. Its main brand is Unibet and I worked mainly on front-end deliverables for new products and landing pages for marketing teams.
+I have extensive commercial experience in web products. My last job was at an online gambling operator called Kindred. During my 6.5 years there the company grew in size from 300 to 1200 employees and more than doubled the number of customers and brands that it served. Its main brand is Unibet and I worked mainly on front-end deliverables for new products and landing pages for marketing teams.
 
 ## Projects
 | Title	| Description	| Technologies | Duration |
@@ -71,8 +71,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - OOP, TDD, MVC,
 - Agile, pair programming
-- Ruby, Rails, JavaScript, Node
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, Node, React
+- RSpec, Jasmine, Jest
 
 #### University of Kent (1995 to 1996)
 
@@ -103,3 +103,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Reuters** (Oct 1996 to Sep 2000)  
 *Technical Project Manager*
+
+## Interests
+Sport - I play football, squash and table tennis, and I am a keen follower of football, cricket and a few other sports.
+
+Music - I enjoy attending music concerts and following both established and new artists online.
+
+Any other free time I have is taken up with caring for and entertaining my two young children.
