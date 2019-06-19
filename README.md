@@ -1,11 +1,23 @@
-# Diptis Halder
+<h1 align="center">Diptis Halder</h1>
+
 |   my developing website	| my LinkedIn page  	| my Medium posts  	|
 |---	|---	|---	|
 | https://www.dips.dev/ | https://www.linkedin.com/in/diptis-halder/ | https://medium.com/@diptis.halder |
 
+
+[Background ](#background) | 
+[Projects ](#projects) | 
+[Skills ](#skills) | 
+[Experience ](#experience) | 
+[Education ](#education) | 
+[Interests ](#interests) 
+
 I am a full-stack software developer with over 15 years of product experience in various roles within multinational companies. Following a career change into programming I now have a passion to continue learning and growing as I craft new products and immerse myself in new technologies. I am a graduate of Makers Academy where I have acquired the coding skills and techniques to help me on my way to becoming a world-class web programmer.
 
 I seek a role in which I can continue to create and deliver innovative and robust products in an Agile framework, manage product backlogs and collaborate with stakeholders in both commercial and technology teams.
+
+## Background
+I have extensive commercial experience in web products. My last job was at an online gambling operator called Kindred. Its main brand is Unibet and I worked mainly on front-end deliverables for new products and landing pages for marketing teams.
 
 ## Projects
 | Title	| Description	| Technologies | Duration |
@@ -17,6 +29,8 @@ I seek a role in which I can continue to create and deliver innovative and robus
 | Connect 4	|   	|   	|   	|
 
 ## Skills
+
+#### 
 
 #### E-commerce
 ...while at Kindred Group, online gambling operator
@@ -35,7 +49,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
-#### Coordination with tech, testing, UX and design teams
+#### UX and Design
 ...
 
 #### Stakeholder management
@@ -55,9 +69,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
+- OOP, TDD, MVC,
+- Agile, pair programming
+- Ruby, Rails, JavaScript, Node
 - RSpec, Jasmine
 
 #### University of Kent (1995 to 1996)
