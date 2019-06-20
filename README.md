@@ -38,7 +38,7 @@ I have extensive commercial experience in web products. My last job was at an on
 ## Projects
 | Title	| Description	| Technologies and frameworks | Duration |
 |---	|---	|---	|--- |
-| [What Zen](https://github.com/what-zen/what-zen-app) | For our final project at Makers our team of 5 built a task manager integrated with chat. It allows its community of users to manage tasks using a simple format following the Eisenhower Matrix, and chat about the tasks or about issues in general. It is deployed at https://what-zen-app.firebaseapp.com/ 	| JavaScript, React, Node, Cypress, Travis CI, Firebase | 2 weeks	|
+| [What Zen](https://github.com/what-zen/what-zen-app) | For our final project at Makers our team of 5 built a task manager integrated with chat. It allows its community of users to manage tasks using a simple format which followed the Eisenhower Matrix, and chat about the tasks or issues in general. It is deployed at https://what-zen-app.firebaseapp.com/ 	| JavaScript, React, Node, Cypress, Travis CI, Firebase | 2 weeks	|
 | [Acebook](https://github.com/dippedincode/acebook-desk-warriors) | This was my second team project at Makers  	| Ruby, Rails, Heroku, Travis CI, Heroku | 2 weeks |
 | [MakersBnB](https://github.com/dippedincode/Makers_BnB)	| This was my first team project at Makers. 5 of us built...  | Ruby, Active Record ORM, Heroku, Rspec | 1 week	|
 | [Thermostat](https://github.com/dippedincode/Thermostat) | This was a project done as a pair programming challenge... | JavaScript, Jasmine	| 4 days |
@@ -56,21 +56,23 @@ I have extensive commercial experience in web products. My last job was at an on
 
 ### UX and Design
 - I was sent by my company on a UX Fundamentals course as I was working closely with UX architects and desginers
-- I have experience of working with UX specs and wireframes, analysing customer journeys and ensuring consistency
+- I have experience of working with UX specs and wireframes, user-centric design and analysing customer journeys
 
 ### E-commerce
-- I have strong skills here...
--
+- I have strong skills in delivering high quality customer-focused propositions for product portals in online gambling and mobile content
+- I worked closely with product management and marketing teams to create web products and landing pages which would drive customer acquisition and retention
 
 ### Stakeholder management
-- I have strong skills here...
+- I have interfaced continually across many teams covering product, commercial, technical, project management and legal divisions of the companies I have worked in to deliver solutions to meet business demands
+- I pride myself in providing clear and timely updates on progress of user stories and projects tailored well adapted for each type of communication, and ensuring effective channels for feedback and actions 
 
 ## Education
 
 ### Makers Academy (November 2018 - March 2019)
 
-- I passed an intensive sofware development bootcamp course at this world renowned institution 
-- The focus here is on learning how to learn to code through individual and team project following Agile best practices and processes
+- I passed an intensive sofware development bootcamp course at this world renowned institution in central London 
+- Focus on learning how to learn to code through individual and team projects following Agile best practices and processes
+- Emphasis also on having a growth mindset, holistic personal development and mental well-being 
 
 ### University of Kent (1995 to 1996)
 
