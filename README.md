@@ -1,5 +1,20 @@
 <h1 align="center">Diptis Halder</h1>
+<p align="center">
+<a href="https://www.dips.dev/">
+<img src="https://img.taste.com.au/B1gNVquZ/w720-h480-cfill-q80/taste/2016/11/three-dips-4566-1.jpeg" alt="dips.dev" hspace="50" height="42" width="42"></a>
 
+<a href="https://www.linkedin.com/in/diptis-halder/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+<a href="https://www.codewars.com/users/dippedincode">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+  
+<a href="https://medium.com/@diptis.halder">
+<img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a>
+
+
+</p>
+  
 <table>
   <tr>
     <td><b>my developing website</b></td>
