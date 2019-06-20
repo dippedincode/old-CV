@@ -1,7 +1,7 @@
 <h1 align="center">Diptis Halder</h1>
 <p align="center">
 <a href="https://www.dips.dev/">
-<img src="https://img.taste.com.au/B1gNVquZ/w720-h480-cfill-q80/taste/2016/11/three-dips-4566-1.jpeg" alt="dips.dev" hspace="50" height="42" width="42"></a>
+<img src="https://worldfoodtour.co.uk/wp-content/uploads/2017/02/44.png" alt="dips.dev" hspace="50" height="42" width="42"></a>
 
 <a href="https://www.linkedin.com/in/diptis-halder/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
@@ -14,25 +14,6 @@
 
 
 </p>
-  
-<table>
-  <tr>
-    <td><b>my developing website</b></td>
-    <td>https://www.dips.dev/</td>
-  </tr>
-  <tr>
-    <td><b>my LinkedIn profile</b></td>
-    <td>https://www.linkedin.com/in/diptis-halder/</td>
-  </tr>
-  <tr>
-    <td><b>my Codewars profile</b></td>
-    <td>https://www.codewars.com/users/dippedincode</td>
-  </tr>
-  <tr>
-    <td><b>my Medium posts</b></td>
-    <td>https://medium.com/@diptis.halder</td>
-  </tr>
-</table>
 
 [Background ](#background) | 
 [Projects ](#projects) | 
