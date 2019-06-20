@@ -37,11 +37,11 @@ I have extensive commercial experience in web products. My last job was at an on
 
 ## Projects
 | Title	| Description	| Technologies and frameworks | Duration |
-|---	|---	|---	|---	|--- |
-| [What Zen](https://github.com/what-zen/what-zen-app) | Our team built a task manager integrated with chat. It allows its community of users to manage tasks using a simple format following the Eisenhower Matrix, and chat about the tasks or about issues in general. It is deployed at https://what-zen-app.firebaseapp.com/ 	| JavaScript, React, Node, Cypress, Firebase hosting. | 2 weeks	|
-| [Acebook](https://github.com/dippedincode/acebook-desk-warriors) |   	|    | 2 weeks |
-| [MakersBnB](https://github.com/dippedincode/Makers_BnB)	|   |   	| 1 week	|
-| [Thermostat](https://github.com/dippedincode/Thermostat) |    |   	| 1 week |
+|---	|---	|---	|--- |
+| [What Zen](https://github.com/what-zen/what-zen-app) | For our final project at Makers our team of 5 built a task manager integrated with chat. It allows its community of users to manage tasks using a simple format following the Eisenhower Matrix, and chat about the tasks or about issues in general. It is deployed at https://what-zen-app.firebaseapp.com/ 	| JavaScript, React, Node, Cypress, Travis CI, Firebase | 2 weeks	|
+| [Acebook](https://github.com/dippedincode/acebook-desk-warriors) | This was my second team project at Makers  	| Ruby, Rails, Heroku, Travis CI, Heroku | 2 weeks |
+| [MakersBnB](https://github.com/dippedincode/Makers_BnB)	| This was my first team project at Makers. 5 of us built...  | Ruby, Active Record ORM, Heroku, Rspec | 1 week	|
+| [Thermostat](https://github.com/dippedincode/Thermostat) | This was a project done as a pair programming challenge... | JavaScript, Jasmine	| 4 days |
 | [Connect 4](https://github.com/dippedincode/Connect4)	| This is my solution to a [codewars kata](https://www.codewars.com/kata/connect-4/) which models the game Connect 4. It is an ongoing project. I have tested many scenarios for winning lines and it has been an excellent exercise in TDD. | JavaScript, Node, Jasmine	| ongoing	|
 
 ## Skills
