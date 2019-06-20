@@ -64,7 +64,7 @@ I have extensive commercial experience in web products. My last job was at an on
 
 ### Stakeholder management
 - I have interfaced continually across many teams covering product, commercial, technical, project management and legal divisions of the companies I have worked in to deliver solutions to meet business demands
-- I pride myself in providing clear and timely updates on progress of user stories and projects tailored well adapted for each type of communication, and ensuring effective channels for feedback and actions 
+- I pride myself in providing clear and timely updates on progress of user stories and projects, the style, content and length of which is well adapted for each type of communication, and also ensuring effective channels for feedback and actions 
 
 ## Education
 
