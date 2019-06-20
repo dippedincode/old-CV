@@ -38,10 +38,10 @@ I have extensive commercial experience in web products. My last job was at an on
 ## Projects
 | Title	| Description	| Technologies and frameworks | Duration |
 |---	|---	|---	|--- |
-| [What Zen](https://github.com/what-zen/what-zen-app) | For our final project at Makers our team of 5 built a task manager integrated with chat. It allows its community of users to manage tasks using a simple format which followed the Eisenhower Matrix, and chat about the tasks or issues in general. It is deployed at https://what-zen-app.firebaseapp.com/ 	| JavaScript, React, Node.js, Cypress, Travis CI, Firebase | 2 weeks	|
-| [Acebook](https://github.com/dippedincode/acebook-desk-warriors) | This was my second team project at Makers  	| Ruby, Rails, Heroku, Travis CI, Heroku | 2 weeks |
-| [MakersBnB](https://github.com/dippedincode/Makers_BnB)	| This was my first team project at Makers. 5 of us built...  | Ruby, Active Record ORM, Heroku, Rspec | 1 week	|
-| [Thermostat](https://github.com/dippedincode/Thermostat) | This was a project done as a pair programming challenge... | JavaScript, Jasmine	| 4 days |
+| [What Zen](https://github.com/what-zen/what-zen-app) | For my final project at Makers our team of 5 built a task manager integrated with chat. It allows its community of users to manage tasks using a simple format which followed the Eisenhower Matrix, and chat about the tasks or issues in general. It is deployed at https://what-zen-app.firebaseapp.com/ 	| JavaScript, React, Node.js, Cypress, Travis CI, Firebase | 2 weeks	|
+| [Acebook](https://github.com/dippedincode/acebook-desk-warriors) | This was my second team project at Makers, there were 4 of us in the team. The task was to build a clone of facebook. This time new requirements were given to us by the 'product owner' in Makers halfway through the project so we had to react in a very agile way to meet them. | Ruby, Rails, Heroku, Travis CI, Heroku | 2 weeks |
+| [MakersBnB](https://github.com/dippedincode/Makers_BnB)	| This was my first team project at Makers and it introduced me to the prevalent Agile and teamwork and collaboration processes. 5 of us built a clone of Airbnb, starting from initial concept and design, early MVP, iterations of product and features through to final delivery in a very short timeframe. | Ruby, Active Record ORM, RSpec, Heroku | 1 week	|
+| [Thermostat](https://github.com/dippedincode/Thermostat) | This was a project done as a pair programming challenge. I ensured that my pair and I initially did some object and process modelling before writing any code. This saved us a lot of time as we could transfer methods straight from our diagram into code and have a common reference which aided collaboration. | JavaScript, jQuery, Jasmine	| 4 days |
 | [Connect 4](https://github.com/dippedincode/Connect4)	| This is my solution to a [codewars kata](https://www.codewars.com/kata/connect-4/) which models the game Connect 4. It is an ongoing project and I have been evolving the game algorithms over time. I have tested many scenarios for winning lines and it has been an excellent exercise in TDD. | JavaScript, Node.js, Jasmine	| ongoing	|
 
 ## Skills
@@ -72,7 +72,7 @@ I have extensive commercial experience in web products. My last job was at an on
 
 - I passed an intensive sofware development bootcamp course at this world renowned institution in central London 
 - Focus on learning how to learn to code through individual and team projects following Agile best practices and processes
-- Emphasis also on having a growth mindset, holistic personal development and mental well-being 
+- Emphasis also on maintaining a growth mindset, holistic personal development and mental well-being 
 
 ### University of Kent (1995 to 1996)
 
@@ -109,4 +109,4 @@ Sport - I play football, squash and table tennis, and I am a keen follower of fo
 
 Music - I enjoy attending music concerts and following both established and new artists online.
 
-Any other free time I have is taken up with caring for and entertaining my two young children.
+Any other free time I have is taken up with caring for and entertaining my two young children and in turn my wife and wider community of family and friends.
