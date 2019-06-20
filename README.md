@@ -43,7 +43,7 @@ I have extensive commercial experience in web products. My last job was at an on
 ## Skills
 
 ### Programming languages and frameworks
-- Ruby, Rails, JavaScript, Node.js, React, jQuery
+- Ruby, Rails, JavaScript, Node.js, React, jQuery, PostgreSQL
 - RSpec, Capybara, Jasmine, Cypress, Jest
 
 ### Methodologies
