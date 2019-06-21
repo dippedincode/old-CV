@@ -1,4 +1,5 @@
 <h1 align="center">Diptis Halder</h1>
+
 <p align="center">
 <a href="https://www.dips.dev/">
 <img src="https://worldfoodtour.co.uk/wp-content/uploads/2017/02/44.png" alt="dips.dev" hspace="50" height="42" width="42"></a>
@@ -10,17 +11,17 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
   
 <a href="https://medium.com/@diptis.halder">
-<img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a>
-
-
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/211_Medium_logo_logos-256.png" alt="medium" hspace="50" height="42" width="42"></a>
 </p>
 
+<div align="center">
 [Background ](#background) | 
 [Projects ](#projects) | 
 [Skills ](#skills) | 
 [Experience ](#experience) | 
 [Education ](#education) | 
 [Interests ](#interests) 
+</div>
 
 I am a full-stack software developer with over 15 years of product experience in various roles within multinational companies. Following a career change into programming I now have a passion to craft new products in code, immerse myself in new technologies and continue to learn and grow as I do so. I am a graduate of Makers Academy where I have acquired the coding skills and techniques to help me on my way to becoming a world-class web programmer.
 
