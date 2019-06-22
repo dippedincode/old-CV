@@ -25,7 +25,7 @@
 
 </div>
 
-I am a full-stack software developer with over 15 years of product experience in various roles within multinational companies. Following a career change into programming I now have a passion to craft new products in code, immerse myself in new technologies and continue to learn and grow as I do so. I am a graduate of Makers Academy where I have acquired the coding skills and techniques to help me on my way to becoming a world-class web programmer.
+I am a full-stack software developer with over 15 years of product-focused experience in a number of roles within multinational companies. Following a career change into programming I now have a passion to craft new products in code, immerse myself in new technologies and continue to learn and grow as I do so. I am a graduate of Makers Academy where I have acquired the coding skills and techniques to help me on my way to becoming a world-class web programmer.
 
 I seek a role in which I can continue to create and deliver innovative and robust products in an Agile framework, manage product backlogs and collaborate with stakeholders in both commercial and technology teams.
 
@@ -104,8 +104,8 @@ I have extensive commercial experience in web products. My last job was at an on
 *Technical Project Manager*
 
 ## Interests
-Sport - I play football, squash and table tennis, and I am a keen follower of football, cricket and a few other sports.
+- **Sport**: I play football, squash and table tennis, and I am a keen follower of football, cricket and a few other sports. While I support a very successful club from my home city of Manchester and I give the Premier League most of my attention I also take an avid interest in lower levels of football in England and also in Spain's La Liga. Researching and collecting classic football shirts is another passion of mine and I enjoy the aspects of style and culture that feature in this hobby.  
 
-Music - I enjoy attending music concerts and following both established and new artists online.
+- **Music**: I enjoy attending music concerts and following both established and new artists online.
 
 Any other free time I have is taken up with caring for and entertaining my two young children and in turn my wife and wider community of family and friends.
