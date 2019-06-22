@@ -104,7 +104,7 @@ I have extensive commercial experience in web products. My last job was at an on
 *Technical Project Manager*
 
 ## Interests
-- **Sport**: I play football, squash and table tennis, and I am a keen follower of football, cricket and a few other sports. While I support a very successful club from my home city of Manchester and I give the Premier League most of my attention I also take an avid interest in lower levels of football in England and also in Spain's La Liga. Researching and collecting classic football shirts is another passion of mine and I enjoy the aspects of style and culture that feature in this hobby.  
+- **Sport**: I play football, squash and table tennis, and I am a keen follower of football, cricket and a few other sports. I support a very successful club from my home city of Manchester and I give the Premier League most of my attention, but I am also very interested in lower levels of football in England and in Spain's La Liga. Researching and collecting classic football shirts is another passion of mine and I enjoy the design elements and nostalgic references that feature in this hobby.  
 
 - **Music**: I enjoy attending music concerts and following both established and new artists online.
 
