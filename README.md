@@ -30,15 +30,19 @@ I am a full-stack software developer with over 15 years of product-focused exper
 I seek a role in which I can continue to create and deliver innovative and robust products in an Agile framework, manage product backlogs and collaborate with stakeholders in both commercial and technology teams.
 
 ## Background
-I completed an undergraduate degree course in Engineering at Cambridge University and followed that with an MSc in Distributed Systems at the University of Kent. Since then I have worked in several technology roles for global companies and consumer brands. I am very glad to continue my journey in technology with my move into software development. 
+I completed an undergraduate degree course in Engineering at Cambridge University and followed that with an MSc in Distributed Systems at the University of Kent. Since then I have worked in several technology roles for global companies and consumer brands. I am very glad to move into software development and continue my journey in technology. 
 
-I have extensive commercial experience in web products. My last job was at an online gambling operator called Kindred. During my 6.5 years there the company grew in size from 300 to 1200 employees and more than doubled the number of customers and brands that it served. Its main brand is Unibet and I worked mainly on front-end deliverables for new products, enhancing customer journeys and producing compelling landing pages for marketing teams. Prior to this I worked on major mobile content retailing platforms across many Vodafone operating companies and before that on network development at Reuters.
+I have extensive commercial experience in web products. My last job was at an online gambling operator called Kindred. During my 6.5 years there the company more than doubled the number of customers and brands that it served, and the front-end changes that I was responsible for were key to supporting this expansion. Its main brand is Unibet and I worked mainly on front-end deliverables for new products, enhancing customer journeys and producing compelling landing pages for marketing teams.
+
+Prior to this I worked on major mobile content retailing platforms across many Vodafone operating companies. >>>
+
+My first job in technology was in network development at Reuters. >>>
 
 ## Projects
 | Title	| Description	| Technologies and frameworks | Duration |
 |---	|---	|---	|--- |
 | [What Zen](https://github.com/what-zen/what-zen-app) | For my final project at Makers our team of 5 built a task manager integrated with chat. It allows its community of users to manage tasks using a simple format which followed the Eisenhower Matrix, and chat about the tasks or issues in general. It is deployed at https://what-zen-app.firebaseapp.com/ 	| JavaScript, React, Node.js, Cypress, Travis CI, Firebase | 2 weeks	|
-| [Acebook](https://github.com/dippedincode/acebook-desk-warriors) | This was my second team project at Makers, there were 4 of us in the team. The task was to build a clone of facebook. This time new requirements were given to us by the 'product owner' in Makers halfway through the project so we had to react in a very agile way to meet them. | Ruby, Rails, Heroku, Travis CI, Heroku | 2 weeks |
+| [Acebook](https://github.com/dippedincode/acebook-desk-warriors) | This was my second team project at Makers, there were 4 of us in the team. The task was to build a clone of facebook. This time new requirements were given to us by the 'product owner' in Makers halfway through the project so we had to react in a very agile way to meet them. | Ruby, Rails, RSpec, Heroku, Travis CI, Heroku | 2 weeks |
 | [MakersBnB](https://github.com/dippedincode/Makers_BnB)	| This was my first team project at Makers and it introduced me to the prevalent Agile and teamwork and collaboration processes. 5 of us built a clone of Airbnb, starting from initial concept and design, early MVP, iterations of product and features through to final delivery in a very short timeframe. | Ruby, Active Record ORM, RSpec, Travis CI, Heroku | 1 week	|
 | [Thermostat](https://github.com/dippedincode/Thermostat) | This was a project done as a pair programming challenge. I ensured that my pair and I initially did some object and process modelling before writing any code. This saved us a lot of time as we could transfer methods straight from our diagram into code and have a common reference which aided collaboration. | JavaScript, jQuery, Jasmine	| 4 days |
 | [Connect 4](https://github.com/dippedincode/Connect4)	| This is my solution to a [codewars kata](https://www.codewars.com/kata/connect-4/) which models the game Connect 4. It is an ongoing project and I have been evolving the game algorithms over time. I have tested many scenarios for winning lines and it has been an excellent exercise in TDD. | JavaScript, Node.js, Jasmine	| ongoing	|
@@ -106,6 +110,6 @@ I have extensive commercial experience in web products. My last job was at an on
 ## Interests
 - **Sport**: I play football, squash and table tennis, and I am a keen follower of football, cricket and a few other sports. I support a very successful club from my home city of Manchester and I give the Premier League most of my attention, but I am also very interested in lower levels of football in England and in Spain's La Liga. Researching and collecting classic football shirts is another passion of mine and I enjoy the design elements and nostalgic references that feature in this hobby.  
 
-- **Music**: I enjoy attending music concerts and following both established and new artists online.
+- **Music**: I enjoy attending music concerts and following both established and new artists online.  >>> more on Music
 
 Any other free time I have is taken up with caring for and entertaining my two young children and in turn my wife and wider community of family and friends.
