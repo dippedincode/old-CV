@@ -111,6 +111,6 @@ My first job in technology was in network development at Reuters. >>>
 ## Interests
 - **Sport**: I play football, squash and table tennis, and I am a keen follower of football, cricket and a few other sports. I support a very successful club from my home city of Manchester and I give the Premier League most of my attention, but I am also very interested in lower levels of football in England and in Spain's La Liga. Researching and collecting classic football shirts is another passion of mine and I appreciate the design elements and nostalgic references that prevail in this hobby.  
 
-- **Music**: I enjoy attending music concerts and following both established and new artists online. London has many opportunities to see bands in many types of venues and I enjoy intimate concerts in pub rooms as much as large arenas. 
+- **Music**: I enjoy attending music concerts when I can and I follow both established and new artists online. Since London offers many opportunities to see performers in all types of venues I am glad to enjoy both intimate concerts in pub rooms and world famous acts in large arenas in equal measure. I am a ardent fan of certain brands of guitar music. Recently I discovered the bluegrass genre which is an exciting combination of roots, blues and jazz.     
 
 Any other free time I have is taken up with caring for and entertaining my two young children and in turn my wife and wider community of family and friends.
