@@ -75,7 +75,7 @@ My first job in technology was in network development at Reuters. >>>
 ### Makers Academy (November 2018 - March 2019)
 
 - I passed an intensive sofware development bootcamp course at this world renowned institution in central London 
-- Focus on learning how to learn to code through individual and team projects following Agile best practices and processes
+- Focus on learning how to learn to code through individual and team projects following Agile best practice and processes
 - Emphasis also on maintaining a growth mindset, holistic personal development and mental well-being 
 
 ### University of Kent (1995 to 1996)
@@ -109,8 +109,8 @@ My first job in technology was in network development at Reuters. >>>
 *Technical Project Manager*
 
 ## Interests
-- **Sport**: I play football, squash and table tennis, and I am a keen follower of football, cricket and a few other sports. I support a very successful club from my home city of Manchester and I give the Premier League most of my attention, but I am also very interested in lower levels of football in England and in Spain's La Liga. Researching and collecting classic football shirts is another passion of mine and I enjoy the design elements and nostalgic references that feature in this hobby.  
+- **Sport**: I play football, squash and table tennis, and I am a keen follower of football, cricket and a few other sports. I support a very successful club from my home city of Manchester and I give the Premier League most of my attention, but I am also very interested in lower levels of football in England and in Spain's La Liga. Researching and collecting classic football shirts is another passion of mine and I appreciate the design elements and nostalgic references that prevail in this hobby.  
 
-- **Music**: I enjoy attending music concerts and following both established and new artists online.  >>> more on Music
+- **Music**: I enjoy attending music concerts and following both established and new artists online. London has many opportunities to see bands in many types of venues and I enjoy intimate concerts in pub rooms as much as large arenas. 
 
 Any other free time I have is taken up with caring for and entertaining my two young children and in turn my wife and wider community of family and friends.
