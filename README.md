@@ -66,9 +66,9 @@ My first job in technology was in network development at Reuters. >>>
 - I worked closely with product management and marketing teams to create web products and landing pages which would drive customer acquisition and retention
 
 ### Stakeholder management
-- I have interfaced continually across many teams covering product, commercial, technical, project management and legal divisions of the companies
+- In my last role I interfaced effectively across many teams covering product, commercial, technical, project management and legal divisions of the companies
 - I pride myself in providing clear and timely updates on progress of user stories and projects, the style, content and length of which is well adapted for each type of communication
-- I have ensured effective channels for feedback and follow-up actions to respond to changing business needs
+- I ensured effective channels for feedback and follow-up actions to respond to changing business needs
 
 ## Education
 
