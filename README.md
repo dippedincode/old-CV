@@ -67,8 +67,8 @@ My first job in technology was as a technical project manager at Reuters the new
 
 ### Stakeholder management
 - In my last role I interfaced effectively across many teams covering product, commercial, technical, project management and legal divisions of the companies
-- I pride myself in providing clear and timely updates on progress of user stories and projects, the style, content and length of which is well adapted for each type of communication
 - I ensured effective channels for feedback and follow-up actions to respond to changing business needs
+- I take pride in providing clear and timely updates on progress of user stories and projects, the style, content and length of which is well adapted for each type of communication
 
 ## Education
 
