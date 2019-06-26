@@ -32,11 +32,11 @@ I seek a role in which I can continue to create and deliver innovative and robus
 ## Background
 I completed an undergraduate degree course in Engineering at Cambridge University and followed that with an MSc in Distributed Systems at the University of Kent. Since then I have worked in several technology roles for global companies and consumer brands. I am very glad to move into software development and continue my journey in technology. 
 
-I have extensive commercial experience in web products. My last job was at an online gambling operator called Kindred whose main brand is called Unibet. During my 6.5 years there the company more than doubled the number of customers and brands that it served. I was responsible for front-end changes that were key to support this expansion. I worked mainly on front-end deliverables for new products, enhancing customer journeys and producing compelling landing pages for marketing teams.
+I have extensive commercial experience in web products. My last job was at an online gambling operator called Kindred whose main brand is Unibet. During my 6.5 years there the company more than doubled the number of customers and brands that it served. I was responsible for front-end changes that were essential to support this expansion. I worked mainly on front-end deliverables for new products, optimising customer journeys and producing compelling landing pages for marketing teams.
 
-Prior to this I worked on major mobile content retailing platforms for Vodafone customers in several markets. One of those was the Belgian market for the Vodafone partner operating company called Proximus. I enjoyed a 3 year product manager role there mainly working on a music download product which was a key consumer offering on their upgraded data network. I also supported a large number of content providers in making their content available on their mobile content portal. 
+Prior to this I worked on major mobile content retailing platforms for Vodafone customers in several markets. One of those was in Belgium for the Vodafone partner operating company called Proximus. I enjoyed a 3 year product manager role there mainly working on a music download product which was a key consumer offering on their upgraded data network. I also supported a large number of content providers in making their content available on their mobile content portal. 
 
-My first job in technology was as a technical project manager at Reuters the news media and financial information company. As part of their network technology team I was responsible for network rollouts, router configurations and front-end applications to financial databases.
+My first job in technology was as a technical project manager at Reuters, the news media and financial information company. As part of their network technology team I was responsible for network rollouts, router configurations and front-end applications to financial databases.
 
 ## Projects
 | Title	| Description	| Technologies and frameworks | Duration |
@@ -68,7 +68,7 @@ My first job in technology was as a technical project manager at Reuters the new
 ### Stakeholder management
 - In my last role I interfaced effectively across many teams covering product, commercial, technical, project management and legal divisions of the companies
 - I ensured effective channels for feedback and follow-up actions to respond to changing business needs
-- I take pride in providing clear and timely updates on progress of user stories and projects, the style, content and length of which is well adapted for each type of communication
+- I take pride in providing clear and timely updates on progress of user stories and projects, mindful of adapting the format, style and length for each type of communication
 
 ## Education
 
@@ -112,6 +112,6 @@ My first job in technology was as a technical project manager at Reuters the new
 - **Sport**: I play football, squash and table tennis, and I am a keen follower of football, cricket and a few other sports. I support a very successful club from my home city of Manchester and I give the Premier League most of my attention, but I am also very interested in lower levels of football in England and in Spain's La Liga.
 Researching and collecting classic football shirts is another passion of mine and I have a passion for the design elements and nostalgia that prevail in this hobby.  
 
-- **Music**: I enjoy attending music concerts when I can and I follow both established and new artists online. Since London offers many opportunities to see performers in all types of venues I am keen to enjoy both intimate concerts in pub rooms and world famous acts in large arenas in equal measure. I am an ardent fan of certain brands of guitar music. Recently I discovered the bluegrass genre which is an exciting combination of roots, blues and jazz.     
+- **Music**: I enjoy attending music concerts when I can and I follow both established and new artists online. Since London offers many opportunities to see performers in all types of venues I am keen to enjoy both intimate concerts in small rooms and world famous acts in large arenas in equal measure. I am an ardent fan of certain brands of guitar music. Recently I discovered the bluegrass genre which is an exciting combination of roots, blues and jazz.     
 
 Any other free time I have is taken up with caring for and entertaining my two young children and in turn my wife and wider community of family and friends.
