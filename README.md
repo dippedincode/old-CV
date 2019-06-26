@@ -1,16 +1,16 @@
 <h1 align="center">Diptis Halder</h1>
 
 <p align="center">
-<a href="https://www.dips.dev/" target="_blank">
+<a href="https://www.dips.dev/">
 <img src="https://worldfoodtour.co.uk/wp-content/uploads/2017/02/44.png" alt="dips.dev" hspace="50" height="42" width="42"></a>
 
-<a href="https://www.linkedin.com/in/diptis-halder/" target="_blank">
+<a href="https://www.linkedin.com/in/diptis-halder/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
-<a href="https://www.codewars.com/users/dippedincode" target="_blank">
+<a href="https://www.codewars.com/users/dippedincode">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
   
-<a href="https://medium.com/@diptis.halder" target="_blank">
+<a href="https://medium.com/@diptis.halder">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/211_Medium_logo_logos-256.png" alt="medium" hspace="50" height="42" width="42"></a>
 </p>
 
@@ -115,5 +115,3 @@ Researching and collecting classic football shirts is another passion of mine an
 - **Music**: I enjoy attending music concerts when I can and I follow both established and new artists online. Since London offers many opportunities to see performers in all types of venues I am keen to enjoy both intimate concerts in small rooms and world famous acts in large arenas in equal measure. I am an ardent fan of certain brands of guitar music. Recently I discovered the bluegrass genre which is an exciting combination of roots, blues and jazz.     
 
 Any other free time I have is taken up with caring for and entertaining my two young children and in turn my wife and wider community of family and friends.
-
-<a href="https://www.thesitewizard.com/" target="_blank">thesitewizard.com</a>
