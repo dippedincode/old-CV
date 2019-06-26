@@ -1,16 +1,16 @@
 <h1 align="center">Diptis Halder</h1>
 
 <p align="center">
-<a href="https://www.dips.dev/">
+<a href="https://www.dips.dev/" target="_blank">
 <img src="https://worldfoodtour.co.uk/wp-content/uploads/2017/02/44.png" alt="dips.dev" hspace="50" height="42" width="42"></a>
 
-<a href="https://www.linkedin.com/in/diptis-halder/">
+<a href="https://www.linkedin.com/in/diptis-halder/" target="_blank">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
-<a href="https://www.codewars.com/users/dippedincode">
+<a href="https://www.codewars.com/users/dippedincode" target="_blank">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
   
-<a href="https://medium.com/@diptis.halder">
+<a href="https://medium.com/@diptis.halder" target="_blank">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/211_Medium_logo_logos-256.png" alt="medium" hspace="50" height="42" width="42"></a>
 </p>
 
