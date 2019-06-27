@@ -60,7 +60,7 @@ My first job in technology was as a technical project manager at Reuters, the ne
 - Agile: TDD, pair programming, teamwork processes, Scrum, Kanban 
 
 ### UX and Design
-- I was sent by my company on a UX Fundamentals course as I was working closely with UX architects and desginers
+- I was sent by my company on a UX Fundamentals course at <a href = "https://www.webcredible.com/">Webcredible</a> as I was working closely with UX architects and desginers
 - I have experience of working with UX specs and wireframes, user-centric design and analysing customer journeys
 
 ### E-commerce
