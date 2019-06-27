@@ -92,6 +92,9 @@ My first job in technology was as a technical project manager at Reuters, the ne
 
 ## Experience
 
+**Personal online software developer training** (July 2018 to Oct 2018)  
+*In preparation for the Makers Academy course*
+
 **Kindred Group Plc** (Nov 2010 to Jun 2017)  
 *Product Delivery Manager*
 
@@ -109,6 +112,8 @@ My first job in technology was as a technical project manager at Reuters, the ne
 
 **Reuters** (Oct 1996 to Sep 2000)  
 *Technical Project Manager*
+
+In between certain roles I dedicated my time towards raising my children and in earlier years I spent time travelling in order to experience new cultures and landscapes. This has all helped me to grow as a person and broaden my perspectives.
 
 ## Interests
 - **Sport**: I play football, squash and table tennis, and I am a keen follower of football, cricket and a few other sports. I support a very successful club from my home city of Manchester and I give the Premier League most of my attention, but I am also very interested in lower levels of football in England and in Spain's La Liga.
