@@ -58,7 +58,7 @@ My first job in technology was as a technical project manager at Reuters, the ne
 ### Methodologies
 - OOP, MVC, Clean Code, SOLID principles, object and process modelling
 - Agile: TDD, pair programming, teamwork processes, Scrum, Kanban
-- Project facilitation and documentation using Agile boards, JIRA and Confluence
+- Project facilitation and collaboration using Agile boards, JIRA, Github and Confluence
 
 ### UX and Design
 - I was sent by my company on a UX Fundamentals course at <a href = "https://www.webcredible.com/">Webcredible</a> as I was working closely with UX architects and desginers
