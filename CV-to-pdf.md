@@ -3,9 +3,10 @@
 I am a full-stack software developer with over 15 years of product-focused experience in a number of roles within multinational companies. Following a career change into programming I now have a passion to craft new products in code, immerse myself in new technologies and continue to learn and grow as I do so. I am a graduate of Makers Academy where I have acquired the coding skills and techniques to help me on my way to becoming a world-class programmer.
 
 I seek a role in which I can continue to create and deliver innovative and robust products in an Agile framework, manage product backlogs and collaborate with stakeholders across business and technology teams. As I have thoroughly enjoyed working with many software development teams in my career I would be very excited to join such a team. I have a strong desire to discover solutions to product challenges and I would feel empowered and rewarded to build those solutions in code.
-
-<h3>My online profiles</h3>
 <table>
+  <tr>
+    <th colspan="5">My online profiles</th>
+  </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/diptis-halder/">LinkedIn</a></td>
     <td><a href="https://github.com/dippedincode/">GitHub</a></td>
