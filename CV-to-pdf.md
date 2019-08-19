@@ -1,7 +1,7 @@
 <h1 align="center">Diptis Halder</h1>
 
 ## Profile
-I am a full-stack software developer with over 15 years of product-focused experience in a number of roles within multinational companies. Following a career change into programming I now have a passion to craft new products in code, immerse myself in new technologies and continue to learn and grow as I do so. I am a graduate of Makers Academy where I have acquired the coding skills and techniques to help me on my way to becoming a world-class programmer.
+I am a full-stack software developer with over 10 years of web product experience in a number of roles within multinational companies. Following a career change into programming I now have a passion to craft new products in code, immerse myself in new technologies and continue to learn and grow as I do so. I am a graduate of Makers Academy where I have acquired the coding skills and techniques to help me on my way to becoming a world-class programmer.
 
 I completed an undergraduate degree course in Engineering at Cambridge University and followed that with an MSc in Distributed Systems at the University of Kent. Since then I have worked in several technology roles for global companies and consumer brands. I am very glad to move into software development and continue my journey in technology. 
 
